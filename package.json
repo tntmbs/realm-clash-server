@@ -1,0 +1,9 @@
+{
+  "name": "realm-clash-server",
+  "version": "1.0.0",
+  "description": "Online 1v1 server for Realm Clash: matchmaking, private rooms, live input relay and ranking",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
